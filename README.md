@@ -134,20 +134,27 @@ gaussian(mean=35, std_dev=3.5, size=1000)
 
 * Discrete Random Variables 
 1. Bernoulli Distribution
+   
    ![image](https://github.com/user-attachments/assets/ed9d6146-3e81-4c27-882c-c67d85f7621c)
 2. Binomial Random Variable
+   
    ![image](https://github.com/user-attachments/assets/b069a4c3-d1c6-415e-9867-d7d58facc155)
    ![image](https://github.com/user-attachments/assets/6db58b1c-48f4-492e-a8fb-eae694e889b4)
 3. Geometric Random Variable
+   
    ![image](https://github.com/user-attachments/assets/529dd808-9b0f-4174-9ce3-0faff5e4eb76)
 4. Uniform Random Variable
+   
    ![image](https://github.com/user-attachments/assets/b091c91d-c532-4bd2-a20e-5019761dc84c)
 5. Poisson Random Variable
+    
    ![image](https://github.com/user-attachments/assets/81c111eb-a1a3-4486-bd1f-7a7c1b903063)
 * Continuous Random Variables 
 1. Uniform Random Variable
+   
    ![image](https://github.com/user-attachments/assets/6d538893-78eb-4aa6-ad27-a3bcdf45307d)
 2. Exponential Distribution
+   
    ![image](https://github.com/user-attachments/assets/f791612c-5877-4030-9341-39c46c5a5ca6)
    ![image](https://github.com/user-attachments/assets/37210260-60ab-49b4-868b-1204c3556d9e)
 
